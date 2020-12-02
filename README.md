@@ -13,7 +13,12 @@
 | IJCAI                                                        | [IJCAI 2020](http://static.ijcai.org/2020-accepted_papers.html) | [IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)   | [IJCAI 2018](http://www.ijcai-18.org/accepted-papers/index.html) |
 
 ## Active Learning 
-#### Sampling strategy
+### Survey
+
+- **BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning.** *Andreas Kirsch, Joost van Amersfoort, Yarin Gal*. 19 Jun 2019. [[paper]](https://arxiv.org/pdf/1906.08158.pdf)[[code]](https://github.com/BlackHC/BatchBALD)
+
+
+### Sampling strategy
 
 - **Cold-start Active Learning through Self-supervised Language Modeling.** *Michelle Yuan, Hsuan-Tien Lin, Jordan Boyd-Graber.* EMNLP 22 Oct 2020. [[paper]](https://arxiv.org/pdf/2010.09535.pdf)[[code]](https://github.com/forest-snow/alps)
 
@@ -21,7 +26,7 @@
 
 - **BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning.** *Andreas Kirsch, Joost van Amersfoort, Yarin Gal*. 19 Jun 2019. [[paper]](https://arxiv.org/pdf/1906.08158.pdf)[[code]](https://github.com/BlackHC/BatchBALD)
 
-- **BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning.** *Andreas Kirsch, Joost van Amersfoort, Yarin Gal*. 19 Jun 2019. [[paper]](https://arxiv.org/pdf/1906.08158.pdf)[[code]](https://github.com/BlackHC/BatchBALD)
+
 
 
 
