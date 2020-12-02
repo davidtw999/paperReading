@@ -33,6 +33,8 @@
 
 - **Active Learning for BERT: An Empirical Study.** *Liat Ein-Dor, Alon Halfon, Ariel Gera, Eyal Shnarch, Lena Dankin, Leshem Choshen, Marina Danilevsky, Ranit Aharonov, Yoav Katz, Noam Slonim*. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.638.pdf)[[code]](https://github.com/IBM/low-resource-text-classification-framework)
 
+- **Active Learning with Query Generation for Cost-Effective Text Classification.** *Yi-Fan Yan,1,2 Sheng-Jun Huang,1,2 Shaoyi Chen,3 Meng Liao,3 Jin Xu3.* AAAI 2020 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6133/5989)
+
 #### Image AL
 
 - **Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds.** *Jordan T. Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, Alekh Agarwal*. 2020 International Conference on Learning Representations 24 Feb 2020. [[paper]](https://arxiv.org/pdf/1906.03671.pdf)[[code]](https://github.com/JordanAsh/badge)
@@ -50,6 +52,8 @@
 - **Generative Adversarial Active Learning for Unsupervised Outlier Detection.** *Yezheng Liu, Zhe Li, Chong Zhou, Yuanchun Jiang, Jianshan Sun, Meng Wang, Xiangnan He.* 2019 [[paper]](https://arxiv.org/pdf/1809.10816.pdf)
 
 - **On Deep Unsupervised Active Learning.** *Changsheng Li, Handong Ma, Zhao Kang, Ye Yuan, Xiao-Yu Zhang, Guoren Wang.* IJCAI 2020 [[paper]](https://arxiv.org/pdf/2007.13959.pdf)
+
+
 
 
 ## Resources
