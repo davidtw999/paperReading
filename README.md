@@ -49,6 +49,8 @@
 
 - **Generative Adversarial Active Learning for Unsupervised Outlier Detection.** *Yezheng Liu, Zhe Li, Chong Zhou, Yuanchun Jiang, Jianshan Sun, Meng Wang, Xiangnan He.* 2019 [[paper]](https://arxiv.org/pdf/1809.10816.pdf)
 
+- **On Deep Unsupervised Active Learning.** *Changsheng Li, Handong Ma, Zhao Kang, Ye Yuan, Xiao-Yu Zhang, Guoren Wang.* IJCAI 2020 [[paper]](https://arxiv.org/pdf/2007.13959.pdf)
+
 
 ## Resources
 
