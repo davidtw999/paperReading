@@ -42,14 +42,14 @@
 
 - **State-Relabeling Adversarial Active Learning.** *Beichen Zhang, Liang Li, Shijie Yang, Shuhui Wang, Zheng-Jun Zha, Qingming Huang.* CVPR 2020. [[paper]](https://arxiv.org/pdf/2004.04943.pdf)
 
+- **ViewAL: Active Learning With Viewpoint Entropy for Semantic Segmentation.** *Yawar Siddiqui, Julien Valentin, Matthias Nießner.* CVPR 2020. [[paper]](https://arxiv.org/pdf/1911.11789.pdf)
 
+- **Generative Adversarial Active Learning for Unsupervised Outlier Detection.** *Yezheng Liu, Zhe Li, Chong Zhou, Yuanchun Jiang, Jianshan Sun, Meng Wang, Xiangnan He.* 2019 [[paper]](https://arxiv.org/pdf/1809.10816.pdf)
 
 
 ## Resources
 
-[funNLP](https://github.com/fighting41love/funNLP)
 
-[OpenNRE](https://github.com/thunlp/OpenNRE/tree/old_version)
 
 
 
