@@ -15,7 +15,7 @@
 ## Active Learning 
 ### Survey
 
-- **BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning.** *Andreas Kirsch, Joost van Amersfoort, Yarin Gal*. 19 Jun 2019. [[paper]](https://arxiv.org/pdf/1906.08158.pdf)[[code]](https://github.com/BlackHC/BatchBALD)
+- **A Survey of Deep Active Learning.** *Pengzhen Ren, Yun Xiao, Xiaojun Chang, Po-Yao Huang, Zhihui Li, Xiaojiang Chen, Xin Wang.* [[paper]](https://arxiv.org/pdf/2009.00236.pdf)
 
 
 ### Sampling strategy
