@@ -20,6 +20,8 @@
 - **A Survey of Active Learning for Text Classification using Deep Neural Networks.** *Christopher Schröder, Andreas Niekler.* 17 Aug 2020. [[paper]](https://arxiv.org/pdf/2008.07267.pdf)
 
 
+
+
 ### Sampling strategy
 
 - **Cold-start Active Learning through Self-supervised Language Modeling.** *Michelle Yuan, Hsuan-Tien Lin, Jordan Boyd-Graber.* EMNLP 22 Oct 2020. [[paper]](https://arxiv.org/pdf/2010.09535.pdf)[[code]](https://github.com/forest-snow/alps)
@@ -28,8 +30,11 @@
 
 - **BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning.** *Andreas Kirsch, Joost van Amersfoort, Yarin Gal*. 19 Jun 2019. [[paper]](https://arxiv.org/pdf/1906.08158.pdf)[[code]](https://github.com/BlackHC/BatchBALD)
 
+- **ALICE: Active Learning with Contrastive Natural Language Explanations.** *Weixin Liang, James Zou, Zhou Yu*. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.355.pdf)
 
+- **Textual Data Augmentation for Efficient Active Learning on Tiny Datasets.** *Husam Quteineh, Spyridon Samothrakis, Richard Sutcliffe*. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.600.pdf)
 
+- **Active Learning for BERT: An Empirical Study.** *Liat Ein-Dor, Alon Halfon, Ariel Gera, Eyal Shnarch, Lena Dankin, Leshem Choshen, Marina Danilevsky, Ranit Aharonov, Yoav Katz, Noam Slonim*. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.638.pdf)[[code]](https://github.com/IBM/low-resource-text-classification-framework)
 
 
 
