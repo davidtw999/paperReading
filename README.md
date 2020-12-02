@@ -15,7 +15,9 @@
 ## Active Learning 
 ### Survey
 
-- **A Survey of Deep Active Learning.** *Pengzhen Ren, Yun Xiao, Xiaojun Chang, Po-Yao Huang, Zhihui Li, Xiaojiang Chen, Xin Wang.* [[paper]](https://arxiv.org/pdf/2009.00236.pdf)
+- **A Survey of Deep Active Learning.** *Pengzhen Ren, Yun Xiao, Xiaojun Chang, Po-Yao Huang, Zhihui Li, Xiaojiang Chen, Xin Wang.* 30 Aug 2020. [[paper]](https://arxiv.org/pdf/2009.00236.pdf)
+
+- **A Survey of Active Learning for Text Classification using Deep Neural Networks.** *Christopher Schröder, Andreas Niekler.* 17 Aug 2020. [[paper]](https://arxiv.org/pdf/2008.07267.pdf)
 
 
 ### Sampling strategy
@@ -33,11 +35,7 @@
 
 ## Multi-label classification
 
-Multi-Label Learning with Global and Local Label Correlation  
-Exploring Correlation between Labels to improve Multi-Label Classification  
-Multi-Label Learning by Exploiting Label Correlations Locally  
-SGM: Sequence Generation Model for Multi-label Classification  
-Deep Learning with a Rethinking Structure for Multi-label Classification
+
 
 
 ## Hierarchical Classification
