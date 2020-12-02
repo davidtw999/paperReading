@@ -40,6 +40,10 @@
 
 - **Active Learning for Imbalanced Datasets.** *Umang Aggarwal, Adrian Popescu, Celine Hudelot.* WACV 2020. [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Aggarwal_Active_Learning_for_Imbalanced_Datasets_WACV_2020_paper.pdf)
 
+- **State-Relabeling Adversarial Active Learning.** *Beichen Zhang, Liang Li, Shijie Yang, Shuhui Wang, Zheng-Jun Zha, Qingming Huang.* CVPR 2020. [[paper]](https://arxiv.org/pdf/2004.04943.pdf)
+
+
+
 
 ## Resources
 
