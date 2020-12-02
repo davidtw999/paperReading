@@ -38,40 +38,6 @@
 
 
 
-## Multi-label classification
-
-
-
-
-## Hierarchical Classification
-
-- **Hierarchical Text Classification with Reinforced Label Assignment.** EMNLP2019. [[paper]](https://arxiv.org/pdf/1908.10419.pdf)
-
-- **A survey of hierarchical classification across different application domains.** 2012.[[paper]](https://link.springer.com/content/pdf/10.1007/s10618-010-0175-9.pdf)
-- **Top-down Strategies for Hierarchical Classification of Transposable Elements with Neural Networks.** *Felipe Kenji Nakano.* ICACCT 2017.[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7966165)
-
-- **大规模分类任务的分层学习** *胡清华* [[paper]](http://121.194.63.124/Slides/Huqinghua-MLA2017.pdf)
-
-## Label Embedding, Label-Specific 
-
-- **Label Embedding for Zero-shot Fine-grained Named Entity Typing** *Yukun Ma, Erik Cambria, Sa Gao.* COLING 2016. [[paper]](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf) 
-- **Description-Based Zero-shot Fine-Grained Entity Typing** *Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi and Prasad Tadepalli.* NAACL 2019. [[paper]](https://www.aclweb.org/anthology/N19-1087.pdf)
-- **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings** *Linh The Nguyen,Linh Van Ngo†,Khoat Than† and Thien Huu Nguyen.* ACL 2019. [[short paper]](https://www.aclweb.org/anthology/P19-1411.pdf)
-- **Label-Specific Document Representation for Multi-Label Text Classification** *Xiao, Lin and Huang, Xin and Chen, Boli and Jing, Liping.* EMNLPL 2019.[[paper]](https://www.aclweb.org/anthology/D19-1044.pdf) [[code]](https://github.com/EMNLP2019LSAN/LSAN)
-- **Hierarchically-Refined Label Attention Network for Sequence Labeling** *Leyang Cui
-  and Yue Zhang.* EMNLPL 2019. [[paper]](https://www.aclweb.org/anthology/D19-1422.pdf)
-- **Rethinking Self-Attention: Towards Interpretability in Neural Parsing** *Khalil Mrini, Franck Dernoncourt, Trung Bui, Walter Chang, Ndapa Nakashole.*  [[paper]](https://arxiv.org/pdf/1911.03875.pdf)
-- **Multi-Task Label Embedding for Text Classification.** *Honglun Zhang, Liqiang Xiao, Wenqing Chen, Yongkun Wang, Yaohui Jin* [[paper]](https://www.aclweb.org/anthology/D18-1484.pdf)
-
-## Avaiable Tecnology
-
-- **Hierarchical Entity Typing via Multi-level Learning to Rank.** ACL2020. [[paper]](https://arxiv.org/pdf/2004.02286.pdf)
-
-- **A Deep Reinforced Sequence-to-Set Model for Multi-Label Text Classification.** AAAI2019. [[paper]](https://arxiv.org/pdf/1809.03118.pdf)
-
-- **Representation Learning of Knowledge Graphs with Hierarchical Types.** IJCAI 2016.[[paper]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/ijcai2016_tkrl.pdf)
-
-- **Multi-Label Zero-Shot Learning with Structured Knowledge Graphs. CVPR.** [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)
 
 ## Resources
 
