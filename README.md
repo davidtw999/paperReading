@@ -38,7 +38,7 @@
 
 - **Adversarial Sampling for Active Learning.** *Christoph Mayer, Radu Timofte*. WACV 2020. [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Mayer_Adversarial_Sampling_for_Active_Learning_WACV_2020_paper.pdf)
 
-- **Active Learning for Imbalanced Datasets.** *Umang Aggarwal, Adrian Popescu, Celine Hudelot. [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Aggarwal_Active_Learning_for_Imbalanced_Datasets_WACV_2020_paper.pdf)
+- **Active Learning for Imbalanced Datasets.** *Umang Aggarwal, Adrian Popescu, Celine Hudelot.* WACV 2020. [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Aggarwal_Active_Learning_for_Imbalanced_Datasets_WACV_2020_paper.pdf)
 
 
 ## Resources
