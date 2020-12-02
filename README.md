@@ -14,9 +14,9 @@
 
 ## Active Learning 
 
-- **Cold-start Active Learning through Self-supervised Language Modeling.** *Michelle Yuan, Hsuan-Tien Lin, Jordan Boyd-Graber.* 22 Oct 2020. [[paper]](https://arxiv.org/pdf/2010.09535.pdf)[[code]](https://github.com/forest-snow/alps)
+- **Cold-start Active Learning through Self-supervised Language Modeling.** *Michelle Yuan, Hsuan-Tien Lin, Jordan Boyd-Graber.* EMNLP 22 Oct 2020. [[paper]](https://arxiv.org/pdf/2010.09535.pdf)[[code]](https://github.com/forest-snow/alps)
 
-- **Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds.** *Jordan T. Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, Alekh Agarwal*. 2020 International Conference on Learning Representations. [[paper]](https://arxiv.org/pdf/1906.03671.pdf)[[code]](https://github.com/JordanAsh/badge)
+- **Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds.** *Jordan T. Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, Alekh Agarwal*. 2020 International Conference on Learning Representations 24 Feb 2020. [[paper]](https://arxiv.org/pdf/1906.03671.pdf)[[code]](https://github.com/JordanAsh/badge)
 
 - **Keyphrase Generation with Correlation Constraints.** *Jun Chen,Xiaoming Zhang,Yu Wu,Zhao Yan,Zhoujun Li*. EMNLP 2018. [[paper]](https://arxiv.org/pdf/1808.07185.pdf)
 
