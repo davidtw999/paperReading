@@ -13,12 +13,15 @@
 | IJCAI                                                        | [IJCAI 2020](http://static.ijcai.org/2020-accepted_papers.html) | [IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)   | [IJCAI 2018](http://www.ijcai-18.org/accepted-papers/index.html) |
 
 ## Active Learning 
+#### Sampling strategy
 
 - **Cold-start Active Learning through Self-supervised Language Modeling.** *Michelle Yuan, Hsuan-Tien Lin, Jordan Boyd-Graber.* EMNLP 22 Oct 2020. [[paper]](https://arxiv.org/pdf/2010.09535.pdf)[[code]](https://github.com/forest-snow/alps)
 
 - **Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds.** *Jordan T. Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, Alekh Agarwal*. 2020 International Conference on Learning Representations 24 Feb 2020. [[paper]](https://arxiv.org/pdf/1906.03671.pdf)[[code]](https://github.com/JordanAsh/badge)
 
-- **Keyphrase Generation with Correlation Constraints.** *Jun Chen,Xiaoming Zhang,Yu Wu,Zhao Yan,Zhoujun Li*. EMNLP 2018. [[paper]](https://arxiv.org/pdf/1808.07185.pdf)
+- **BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning.** *Andreas Kirsch, Joost van Amersfoort, Yarin Gal*. 19 Jun 2019. [[paper]](https://arxiv.org/pdf/1906.08158.pdf)[[code]](https://github.com/BlackHC/BatchBALD)
+
+- **BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning.** *Andreas Kirsch, Joost van Amersfoort, Yarin Gal*. 19 Jun 2019. [[paper]](https://arxiv.org/pdf/1906.08158.pdf)[[code]](https://github.com/BlackHC/BatchBALD)
 
 
 
