@@ -36,7 +36,9 @@
 
 - **Active Learning for BERT: An Empirical Study.** *Liat Ein-Dor, Alon Halfon, Ariel Gera, Eyal Shnarch, Lena Dankin, Leshem Choshen, Marina Danilevsky, Ranit Aharonov, Yoav Katz, Noam Slonim*. EMNLP 2020. [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.638.pdf)[[code]](https://github.com/IBM/low-resource-text-classification-framework)
 
+- **Adversarial Sampling for Active Learning.** *Christoph Mayer, Radu Timofte*. WACV 2020. [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Mayer_Adversarial_Sampling_for_Active_Learning_WACV_2020_paper.pdf)
 
+- **Active Learning for Imbalanced Datasets.** *Umang Aggarwal, Adrian Popescu, Celine Hudelot. [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Aggarwal_Active_Learning_for_Imbalanced_Datasets_WACV_2020_paper.pdf)
 
 
 ## Resources
