@@ -53,6 +53,9 @@
 
 - **On Deep Unsupervised Active Learning.** *Changsheng Li, Handong Ma, Zhao Kang, Ye Yuan, Xiao-Yu Zhang, Guoren Wang.* IJCAI 2020 [[paper]](https://arxiv.org/pdf/2007.13959.pdf)
 
+- **ON STATISTICAL BIAS IN ACTIVE LEARNING: HOW AND WHEN TO FIX IT.** *.* ICPR 2021 [[paper]](https://openreview.net/pdf?id=JiYq3eqTKY)
+
+- **UNCERTAINTY-AWARE ACTIVE LEARNING FOR OPTIMAL BAYESIAN CLASSIFIER.** *.* ICPR 2021 [[paper]](https://openreview.net/pdf?id=Mu2ZxFctAI)
 
 
 
