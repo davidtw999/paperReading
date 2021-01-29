@@ -61,9 +61,9 @@
 
 #### AL with Knowledge Distillation
 
-- **Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model.** *.* CVPR 2021 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Neural_Networks_Are_More_Productive_Teachers_Than_Human_Raters_Active_CVPR_2020_paper.pdf)
+- **Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model.** *.* CVPR 2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Neural_Networks_Are_More_Productive_Teachers_Than_Human_Raters_Active_CVPR_2020_paper.pdf)
 
-- **Weight Decay Scheduling and Knowledge Distillation for Active Learning.** *.* ECVA 2021 [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710426.pdf)
+- **Weight Decay Scheduling and Knowledge Distillation for Active Learning.** *.* ECVA 2020 [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710426.pdf)
 
 
 
