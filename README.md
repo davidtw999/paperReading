@@ -67,5 +67,9 @@
 
 
 
+#### Federated Learning with AL 
+
+- **Combining Federated and Active Learning for Communication-efficient Distributed Failure Prediction in Aeronautics.** *.* 2020 [[paper]](https://arxiv.org/pdf/2001.07504.pdf)
+
 
 
