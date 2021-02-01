@@ -71,5 +71,8 @@
 
 - **Combining Federated and Active Learning for Communication-efficient Distributed Failure Prediction in Aeronautics.** *.* 2020 [[paper]](https://arxiv.org/pdf/2001.07504.pdf)
 
+- **Active Learning Based Federated Learning for Waste and Natural Disaster Image Classification.** *.* 2020 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9261337)
+
+
 
 
