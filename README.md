@@ -73,6 +73,11 @@
 
 - **Active Learning Based Federated Learning for Waste and Natural Disaster Image Classification.** *.* 2020 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9261337)
 
+#### Active Learning Meta-Learning
+
+- **Probabilistic Active Meta-Learning.** *.* 2020 [[paper]](https://arxiv.org/pdf/2007.08949.pdf)
+
+
 
 
 
