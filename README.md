@@ -77,6 +77,20 @@
 
 - **Probabilistic Active Meta-Learning.** *.* 2020 [[paper]](https://arxiv.org/pdf/2007.08949.pdf)
 
+#### Meta-Learning
+
+- **Bayesian Model-Agnostic Meta-Learning.** *.* 2018 [[paper]](https://dl.acm.org/doi/pdf/10.5555/3327757.3327835)
+
+- **LEARNING TO BALANCE: BAYESIAN META-LEARNING FOR IMBALANCED AND OUT-OF-DISTRIBUTION TASKS.** *.* 2020 [[paper]](https://arxiv.org/pdf/1905.12917.pdf)
+
+- **VARIBAD: A VERY GOOD METHOD FOR BAYES-ADAPTIVE DEEP RL VIA META-LEARNING.** *.* 2020 [[paper]](https://arxiv.org/pdf/1910.08348.pdf)
+
+- **Meta-Learning in Neural Networks: A Survey.** *.* 2020 [[paper]](https://arxiv.org/pdf/2004.05439.pdf)
+
+
+
+
+
 
 
 
