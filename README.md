@@ -87,6 +87,8 @@
 
 - **Meta-Learning in Neural Networks: A Survey.** *.* 2020 [[paper]](https://arxiv.org/pdf/2004.05439.pdf)
 
+- **NEURAL TOPIC MODEL VIA OPTIMAL TRANSPORT.** *.* ICRL 2021 [[paper]](https://openreview.net/pdf?id=Oos98K9Lv-k)
+
 
 
 
