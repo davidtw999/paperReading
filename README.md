@@ -35,6 +35,8 @@
 
 - **Active Learning with Query Generation for Cost-Effective Text Classification.** *Yi-Fan Yan,1,2 Sheng-Jun Huang,1,2 Shaoyi Chen,3 Meng Liao,3 Jin Xu3.* AAAI 2020 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6133/5989)
 
+- **Fine-tuning BERT for Low-Resource Natural Language Understanding via Active Learning.** 2020 [[paper]](https://www.aclweb.org/anthology/2020.coling-main.100.pdf)
+
 #### Image AL
 
 - **Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds.** *Jordan T. Ash, Chicheng Zhang, Akshay Krishnamurthy, John Langford, Alekh Agarwal*. 2020 International Conference on Learning Representations 24 Feb 2020. [[paper]](https://arxiv.org/pdf/1906.03671.pdf)[[code]](https://github.com/JordanAsh/badge)
