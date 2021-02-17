@@ -19,6 +19,9 @@
 
 - **A Survey of Active Learning for Text Classification using Deep Neural Networks.** *Christopher Schröder, Andreas Niekler.* 17 Aug 2020. [[paper]](https://arxiv.org/pdf/2008.07267.pdf)
 
+- **Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift.** 2019. [[paper]](https://arxiv.org/pdf/1906.02530.pdf)
+
+
 
 
 ### Sampling strategy
@@ -94,6 +97,7 @@
 - **NEURAL TOPIC MODEL VIA OPTIMAL TRANSPORT.** *.* ICRL 2021 [[paper]](https://openreview.net/pdf?id=Oos98K9Lv-k)
 
 - **Computational OPTIMAL TRANSPORT.** *.* ICRL 2021 [[paper]](https://arxiv.org/pdf/1803.00567.pdf)
+
 
 
 
